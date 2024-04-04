@@ -1,1 +1,1 @@
-# Machine-Learning-Projects
+Practice Projects from Data Science Course
